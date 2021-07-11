@@ -1,2 +1,2 @@
 # Codeacademy-Certificates
-Collection of completes Codeacademy courses
+Collection of completed Codeacademy courses
