@@ -1,2 +1,2 @@
 # Certificates
-Collection of completed Codeacademy courses and other learning programs
+Collection of completed learning programs
