@@ -9,5 +9,5 @@ Collection of completed learning programs
 * Analyze Data with Pyton Codeacademy
 * Visualize Data with Python
 * UBA Certificate in Key Capabilities in Data Science
-** Programming in Python for Data Science
+  *Programming in Python for Data Science
 
