@@ -1,7 +1,7 @@
 ### Certificates
 Collection of completed learning programs
 
-#Completed:
+## Completed:
 * Learn Python 3 - Codeacademy
 * Learn Git - Codeacademy
 * Learn the Command Line - Codeacademy
