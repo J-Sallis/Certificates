@@ -12,4 +12,4 @@ Collection of completed learning programs
     * Programming in Python for Data Science
     * Introduction to Machine Learning
  * Alogorithmic Trading and Stock: Essential Training - LinkedIn Learning
-
+* Learn R - Codeacademy
