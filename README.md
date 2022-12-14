@@ -12,5 +12,6 @@ Collection of completed learning programs
     * Programming in Python for Data Science (50 hrs)
     * Introduction to Machine Learning (50 hrs)
     * Introduction to Data Visualization (50 hrs)
+    * Data Science Toolbox (50 hrs)
 * Alogorithmic Trading and Stock: Essential Training - LinkedIn Learning
 * Learn R - Codeacademy
