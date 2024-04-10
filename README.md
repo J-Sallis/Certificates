@@ -15,3 +15,4 @@ Collection of completed learning programs
     * Data Science Toolbox (50 hrs)
 * Alogorithmic Trading and Stock: Essential Training - LinkedIn Learning
 * Learn R - Codeacademy
+* Learn SQL - Codeacademy
